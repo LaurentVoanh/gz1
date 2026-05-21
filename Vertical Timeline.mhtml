@@ -1,0 +1,399 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://deepseek.my.id/genius/
+Subject: Vertical Timeline
+Date: Sat, 1 Feb 2025 02:09:15 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--evJQCYVtiuCwYuaEgWJAr1HG9OMXPFITBqqCbqwT0j----"
+
+
+------MultipartBoundary--evJQCYVtiuCwYuaEgWJAr1HG9OMXPFITBqqCbqwT0j----
+Content-Type: text/html
+Content-ID: <frame-29C5504501941389C0961F5FB065B0FE@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://deepseek.my.id/genius/
+
+<!DOCTYPE html><html lang=3D"fr"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <title>Vertical Timeline</title>
+  <link rel=3D"stylesheet" href=3D"https://deepseek.my.id/genius/styles.css=
+">
+</head>
+<body>
+<section class=3D"intro">
+  <div class=3D"container">
+    <h1>Vertical Timeline v2 =E2=86=93</h1>
+    <p>Timeline v1 <a href=3D"https://codepen.io/tutsplus/full/QNeJgR" targ=
+et=3D"_blank">here</a></p>
+  </div>
+</section>
+
+<section class=3D"timeline">
+  <ol>
+    <li class=3D"in-view">
+      <div class=3D"item-inner">
+        <div class=3D"time-wrapper">
+          <time>1934</time>
+        </div>
+        <div class=3D"details">
+          <h3>Heading Here</h3>
+          <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui=
+ blanditiis praesentium At vero eos et accusamus et iusto odio dignissimos =
+ducimus qui blanditiis praesentium</p>
+        </div>
+      </div>
+    </li>
+    <li class=3D"in-view">
+      <div class=3D"item-inner">
+        <div class=3D"time-wrapper">
+          <time>1937</time>
+        </div>
+        <div class=3D"details">
+          <h3>Heading Here</h3>
+          <p>Proin quam velit, efficitur vel neque vitae, rhoncus commodo m=
+i. Suspendisse finibus mauris et bibendum molestie. Aenean ex augue, varius=
+ et pulvinar in, pretium non nisi.</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class=3D"item-inner">
+        <div class=3D"time-wrapper">
+          <time>1940</time>
+        </div>
+        <div class=3D"details">
+          <h3>Heading Here</h3>
+          <p>Proin iaculis, nibh eget efficitur varius, libero tellus porta=
+ dolor, at pulvinar tortor ex eget ligula. Integer eu dapibus arcu, sit ame=
+t sollicitudin eros.</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class=3D"item-inner">
+        <div class=3D"time-wrapper">
+          <time>1943</time>
+        </div>
+        <div class=3D"details">
+          <h3>Heading Here</h3>
+          <p>In mattis elit vitae odio posuere, nec maximus massa varius. S=
+uspendisse varius volutpat mattis. Vestibulum id magna est.</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class=3D"item-inner">
+        <div class=3D"time-wrapper">
+          <time>1946</time>
+        </div>
+        <div class=3D"details">
+          <h3>Heading Here</h3>
+          <p>In mattis elit vitae odio posuere, nec maximus massa varius. S=
+uspendisse varius volutpat mattis. Vestibulum id magna est.</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class=3D"item-inner">
+        <div class=3D"time-wrapper">
+          <time>1956</time>
+        </div>
+        <div class=3D"details">
+          <h3>Heading Here</h3>
+          <p>Proin iaculis, nibh eget efficitur varius, libero tellus porta=
+ dolor, at pulvinar tortor ex eget ligula. Integer eu dapibus arcu, sit ame=
+t sollicitudin eros</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class=3D"item-inner">
+        <div class=3D"time-wrapper">
+          <time>1967</time>
+        </div>
+        <div class=3D"details">
+          <h3>Heading Here</h3>
+          <p>In mattis elit vitae odio posuere, nec maximus massa varius. S=
+uspendisse varius volutpat mattis. Vestibulum id magna est.</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class=3D"item-inner">
+        <div class=3D"time-wrapper">
+          <time>1985</time>
+        </div>
+        <div class=3D"details">
+          <h3>Heading Here</h3>
+          <p>Proin iaculis, nibh eget efficitur varius, libero tellus porta=
+ dolor, at pulvinar tortor ex eget ligula. Integer eu dapibus arcu, sit ame=
+t sollicitudin eros</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class=3D"item-inner">
+        <div class=3D"time-wrapper">
+          <time>2000</time>
+        </div>
+        <div class=3D"details">
+          <h3>Heading Here</h3>
+          <p>In mattis elit vitae odio posuere, nec maximus massa varius. S=
+uspendisse varius volutpat mattis. Vestibulum id magna est.</p>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class=3D"item-inner">
+        <div class=3D"time-wrapper">
+          <time>2012</time>
+        </div>
+        <div class=3D"details">
+          <h3>Heading Here</h3>
+          <p>Proin iaculis, nibh eget efficitur varius, libero tellus porta=
+ dolor, at pulvinar tortor ex eget ligula. Integer eu dapibus arcu, sit ame=
+t sollicitudin eros</p>
+        </div>
+      </div>
+    </li>
+  </ol>
+
+</section>
+<footer class=3D"page-footer">
+  <span>made by </span>
+  <a href=3D"https://georgemartsoukos.com/" target=3D"_blank">
+    <img width=3D"24" height=3D"24" src=3D"https://assets.codepen.io/162656=
+/george-martsoukos-small-logo.svg" alt=3D"George Martsoukos logo">
+  </a>
+</footer>
+ =20
+
+
+</body></html>
+------MultipartBoundary--evJQCYVtiuCwYuaEgWJAr1HG9OMXPFITBqqCbqwT0j----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://assets.codepen.io/162656/george-martsoukos-small-logo.svg
+
+<?xml version=3D"1.0" encoding=3D"utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version:=
+ 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/=
+SVG/1.1/DTD/svg11.dtd">
+<svg version=3D"1.1" id=3D"Layer_1" xmlns=3D"http://www.w3.org/2000/svg" xm=
+lns:xlink=3D"http://www.w3.org/1999/xlink" x=3D"0px" y=3D"0px"
+	 width=3D"283.993px" height=3D"327.465px" viewBox=3D"0 0 283.993 327.465" =
+enable-background=3D"new 0 0 283.993 327.465"
+	 xml:space=3D"preserve">
+<g>
+	<g>
+		<path fill=3D"#137D76" d=3D"M142.161,122.936v-0.002l-0.164,0.099l-0.165-0=
+.099v0.002L6.204,42.924C3.462,41.306,0,43.283,0,46.467
+			v195.542c0,1.456,0.77,2.804,2.024,3.543L29.3,261.643c2.743,1.618,6.205-0=
+.358,6.205-3.543V108.227
+			c0-3.185,3.462-5.162,6.204-3.543l98.197,57.931c1.29,0.761,2.892,0.761,4.=
+181,0l98.197-57.931
+			c2.743-1.619,6.204,0.358,6.204,3.543V258.1c0,3.185,3.462,5.161,6.205,3.5=
+43l27.276-16.091c1.254-0.739,2.023-2.087,2.023-3.543
+			V46.467c0-3.184-3.462-5.161-6.204-3.543L142.161,122.936z"/>
+		<path fill=3D"#137D76" d=3D"M210.971,287.442l-66.884,39.452c-1.29,0.761-2=
+.891,0.761-4.181,0l-66.884-39.452
+			c-1.255-0.739-2.024-2.088-2.024-3.544V170.391c0-3.184,3.462-5.161,6.204-=
+3.544l27.266,16.083
+			c1.254,0.74,2.024,2.088,2.024,3.543v77.342c0,1.456,0.77,2.804,2.024,3.54=
+4l31.391,18.513c1.289,0.761,2.89,0.761,4.18,0
+			l31.379-18.507c1.255-0.739,2.024-2.087,2.024-3.543v-38.872l-0.724,0.428l=
+-0.176,0.099l-28.39,16.756
+			c-2.742,1.619-6.204-0.358-6.204-3.543v-31.271c0-1.456,0.77-2.804,2.022-3=
+.543l62.771-37.036
+			c2.743-1.618,6.205,0.358,6.205,3.543v113.517C212.995,285.354,212.226,286=
+.703,210.971,287.442z"/>
+		<path fill=3D"#137D76" d=3D"M205.858,44.101L179.021,59.93c-1.289,0.761-2.=
+891,0.761-4.18,0l-30.754-18.14
+			c-1.29-0.761-2.891-0.761-4.181,0l-30.754,18.14c-1.289,0.761-2.89,0.761-4=
+.18,0L78.136,44.101
+			c-2.699-1.592-2.699-5.495-0.001-7.087L139.906,0.57c1.29-0.761,2.892-0.76=
+1,4.181,0l61.771,36.443
+			C208.557,38.605,208.557,42.509,205.858,44.101z"/>
+	</g>
+</g>
+</svg>
+
+------MultipartBoundary--evJQCYVtiuCwYuaEgWJAr1HG9OMXPFITBqqCbqwT0j----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--evJQCYVtiuCwYuaEgWJAr1HG9OMXPFITBqqCbqwT0j----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://deepseek.my.id/genius/styles.css
+
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css2?family=3DInter:wght@400;700&=
+display=3Dswap");
+
+:root { --red: #f45b69; --dark-blue: #227c9d; --turquoise: #17c3b2; --white=
+: #fff; }
+
+*, ::before, ::after { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+a { color: inherit; }
+
+body { font: 16px / 1.5 Inter, sans-serif; padding-bottom: 50px; }
+
+.intro { color: var(--white); background: var(--red); padding: 100px 0px; }
+
+.container { width: 90%; max-width: 1200px; margin: 0px auto; text-align: c=
+enter; }
+
+h1 { font-size: 2.5rem; }
+
+.timeline { padding: 50px 20px; margin: 0px auto; max-width: 1000px; color:=
+ var(--dark-blue); }
+
+.timeline ol { position: relative; list-style: none; }
+
+.timeline ol::before { content: ""; position: absolute; top: 0px; left: 0px=
+; width: 3px; height: 100%; background: var(--turquoise); }
+
+.timeline ol li .item-inner { padding: 20px 180px; margin-bottom: 8vh; }
+
+.timeline ol li .time-wrapper { position: relative; font-size: 4.5rem; font=
+-weight: bold; line-height: 0.9; }
+
+.timeline ol li .time-wrapper::before, .timeline ol li .time-wrapper::after=
+ { content: ""; position: absolute; background: var(--turquoise); }
+
+.timeline ol li .time-wrapper::before { top: 50%; left: -180px; transform: =
+translateY(-50%); width: 0px; height: 3px; transition: width 0.8s linear; }
+
+.timeline ol li .time-wrapper::after { top: calc(50% - 8px); left: -60px; w=
+idth: 15px; height: 15px; border-radius: 50%; transform: scale(0); transfor=
+m-origin: left center; transition: 0.4s linear; }
+
+.timeline ol li time, .timeline ol li .details > * { opacity: 0; transition=
+: 0.5s; }
+
+.timeline ol li time { display: inline-block; transform: translateY(-30px);=
+ }
+
+.timeline ol li .details > * { transform: translateY(30px); }
+
+.timeline ol li .details h3 { font-size: 2rem; line-height: 1; margin: 15px=
+ 0px; }
+
+.timeline ol li.in-view .time-wrapper::before { width: 120px; }
+
+.timeline ol li.in-view .time-wrapper::after { transition-delay: 0.8s; tran=
+sform: scale(1.5); }
+
+.timeline ol li.in-view time, .timeline ol li.in-view .details > * { opacit=
+y: 1; transform: none; }
+
+.timeline ol li.in-view time { transition-delay: 1.3s; }
+
+.timeline ol li.in-view .details h3 { transition-delay: 1.5s; }
+
+.timeline ol li.in-view .details p { transition-delay: 1.7s; }
+
+@media (max-width: 700px) {
+  .timeline ol li .item-inner { padding: 20px 40px; }
+  .timeline ol li .time-wrapper::before { display: none; }
+  .timeline ol li .time-wrapper::after { left: -45px; transform-origin: cen=
+ter center; }
+  .timeline ol li.in-view .time-wrapper::after { transition-delay: 0s; }
+  .timeline ol li.in-view time { transition-delay: 0.5s; }
+  .timeline ol li.in-view .details h3 { transition-delay: 0.7s; }
+  .timeline ol li.in-view .details p { transition-delay: 0.9s; }
+}
+
+.page-footer { position: fixed; right: 0px; bottom: 20px; display: flex; al=
+ign-items: center; padding: 5px; background: rgba(255, 255, 255, 0.65); }
+
+.page-footer a { display: flex; margin-left: 4px; }
+------MultipartBoundary--evJQCYVtiuCwYuaEgWJAr1HG9OMXPFITBqqCbqwT0j------
